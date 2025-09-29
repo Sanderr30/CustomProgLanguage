@@ -1,0 +1,5 @@
+add_subdirectory(value)
+add_subdirectory(function)
+add_subdirectory(interpreter)
+add_subdirectory(evaluator)
+add_subdirectory(enviroment)

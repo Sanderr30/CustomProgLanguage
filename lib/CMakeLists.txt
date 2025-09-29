@@ -1,0 +1,5 @@
+add_subdirectory(lexer)
+add_subdirectory(syntax)
+add_subdirectory(vls_and_sttmnts)
+add_subdirectory(semantic)
+add_subdirectory(runtime)

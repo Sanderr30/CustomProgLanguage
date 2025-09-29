@@ -1,0 +1,8 @@
+a = 1
+if a == 0 then
+    print("a is zero")
+else if a == 1 then
+    print("a is one")
+else
+    print("a is neither zero nor one")
+end if
